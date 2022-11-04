@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="text1">HELLO This is First Batch.</string>
+    <string name="btn2_click">Button 2 is Clicked</string>
+</resources>
